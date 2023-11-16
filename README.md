@@ -4,7 +4,7 @@
 ETA project의 집중 상태 판단 모델. ViT 기반으로 학습을 진행하였습니다.
 
 ## Our Model Output
-![result](./img/test1.gif)
+![result](./img/output.gif)
 
 ## Install
 
